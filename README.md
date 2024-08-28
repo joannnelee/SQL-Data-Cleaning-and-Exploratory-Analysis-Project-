@@ -455,6 +455,10 @@ WHERE ranking <= 5
 
 The analysis results are summarised as follows:
 1. Companies with 100% layoffs tend to be start-ups.
+2. Google had the largest number of layoffs in a single day at 12,000 employees
+3. Amazon has the largest sum of layoffs at 18,150 over the three year period
+4. The consumer and retail industries had the most layoffs, most likely due to coronavirus
+5. The United States was the country with the most layoffs at 256,559, this is about 7 times more layoffs than the second country with the most layoffs, India, at 35,993.
 
 
 ### Limitations 
